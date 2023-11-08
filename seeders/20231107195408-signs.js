@@ -1,5 +1,4 @@
 'use strict';
-const { sequelize } = require('../models');
 const db = require('../models')
 
 /** @type {import('sequelize-cli').Migration} */
