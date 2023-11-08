@@ -41,4 +41,4 @@ Our astrologers have just shared the following information with us! “*Each sig
 **BONUS TASKS**
 
 1. A modality named “introverted” has been mistakenly added to our database, along with some signs that shouldn’t be here… What should we do so that when we delete a modality, all signs belonging to it are also deleted?
-2. Notice that someone has previously added the attribute, `size` , to the **planet** table by mistake. What should we do to remove it?
+2. Notice that someone has previously added the attribute, `size`, to the **planet** table by mistake. What should we do to remove it?
