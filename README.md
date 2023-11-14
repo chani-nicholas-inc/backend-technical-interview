@@ -31,16 +31,15 @@ Your tasks will be to create a new model, add associations, perform migrations, 
 
 1. In our Express app, create a model called **sign** that has the attribute, `name`.
 2. Create and run a migration for this new table. In a psql terminal, run a SQL statement to check that our previous steps were successful.
-3. While we are in this terminal, run a SQL statement to add a new **sign** named “Sagittarius.”
 
 **For the second half, you will drive while explaining your process to a “junior developer.”**
 
 Our astrologers have just shared the following information with us! “*Each sign can have only one modality, element, and ruling planet. But each modality, element, and ruling planet can belong to multiple signs.*” 
 
-1. Please update our associations and the attributes of the **sign** model accordingly before your next migration.
+1. Please update our associations and the attributes of the **sign** model (HINT: Look at the signs seeder file for attribute names). Update the corresponding table using a new migration.
 2. Run existing seed files.
-3. Fill in the `createOne` and `getAll` functions in the **signs** controller using Sequelize model queries. Test endpoints in Postman to ensure they are working.
-4. While in Postman, update the “Sagittarius” sign we created earlier. Sagittarius’ ruling **planet** is “Jupiter,” **element** is “fire,” and **modality** is “mutable.” (HINT: planets, elements, and modalities have been fully seeded. What SQL statements can you run in the terminal to get the ID numbers needed?)
+3. Fill in the `createOne` and `getAll` functions in the **signs** controller using Sequelize model queries. Run `npm start` and test endpoints in Postman to ensure they are working.
+4. While in Postman, create the sign “Sagittarius". Sagittarius’ ruling **planet** is “Jupiter,” **element** is “fire,” and **modality** is “mutable.” (HINT: planets, elements, and modalities have been fully seeded. What SQL statements can you run in the terminal to get the ID numbers needed?)
 
 **BONUS TASKS**
 
