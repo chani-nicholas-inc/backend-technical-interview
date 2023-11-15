@@ -29,7 +29,7 @@ Your tasks will be to create a new model, add associations, perform migrations, 
 
 **First, you will play the role of navigator as you guide a "junior developer" in driving while pair programming.**
 
-1. In our Express app, create a model called **sign** that has the attribute, `name`.
+1. In our Express app, create a model called **sign** that has the attribute, `name`. (NOTE: Our naming convention consists of sigular table names and using underscores)
 2. Create and run a migration for this new table. In a psql terminal, run a SQL statement to check that our previous steps were successful.
 
 **For the second half, you will pull down the code and drive while explaining your process to a “junior developer.”**
