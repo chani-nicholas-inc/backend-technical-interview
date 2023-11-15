@@ -16,43 +16,43 @@ module.exports = {
     await queryInterface.bulkInsert('sign', [
       {
         name: 'Lorem',
-        planet_id: plutoId,
-        element_id: fireId,
-        modality_id: introvertedId,
-        created_at: new Date(),
-        updated_at: new Date()
+        planetId: plutoId,
+        elementId: fireId,
+        modalityId: introvertedId,
+        createdAt: new Date(),
+        updatedAt: new Date()
       },
       {
         name: 'Ipsum',
-        planet_id: plutoId,
-        element_id: fireId,
-        modality_id: introvertedId,
-        created_at: new Date(),
-        updated_at: new Date()
+        planetId: plutoId,
+        elementId: fireId,
+        modalityId: introvertedId,
+        createdAt: new Date(),
+        updatedAt: new Date()
       },
       {
         name: 'Persimon',
-        planet_id: plutoId,
-        element_id: fireId,
-        modality_id: introvertedId,
-        created_at: new Date(),
-        updated_at: new Date()
+        planetId: plutoId,
+        elementId: fireId,
+        modalityId: introvertedId,
+        createdAt: new Date(),
+        updatedAt: new Date()
       },
       {
         name: 'Jezebel',
-        planet_id: plutoId,
-        element_id: fireId,
-        modality_id: introvertedId,
-        created_at: new Date(),
-        updated_at: new Date()
+        planetId: plutoId,
+        elementId: fireId,
+        modalityId: introvertedId,
+        createdAt: new Date(),
+        updatedAt: new Date()
       },
       {
         name: 'Refrigerator',
-        planet_id: plutoId,
-        element_id: fireId,
-        modality_id: introvertedId,
-        created_at: new Date(),
-        updated_at: new Date()
+        planetId: plutoId,
+        elementId: fireId,
+        modalityId: introvertedId,
+        createdAt: new Date(),
+        updatedAt: new Date()
       },
     ], {});
   },
