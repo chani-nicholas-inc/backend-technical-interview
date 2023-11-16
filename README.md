@@ -38,7 +38,7 @@ Our astrologers have just shared the following information with us! “*Each sig
 
 1. Please update our associations and the attributes of the **sign** model (HINT: Look at the signs seeder file for attribute names). Update the corresponding table using a new migration.
 2. Run existing seed files.
-3. Fill in the `createOne` and `getAll` functions in the **signs** controller using Sequelize model queries. Run `npm start` and test endpoints in Postman to ensure they are working.
+3. Fill in the `createOne` and `getAll` functions in the **signs** controller using Sequelize model queries.
 4. Run `npm start` and test endpoints in Postman to ensure they are working. Create the sign “Sagittarius". Sagittarius’ ruling **planet** is “Jupiter,” **element** is “fire,” and **modality** is “mutable.” (HINT: planets, elements, and modalities have been fully seeded. What SQL statements can you run in the terminal to get the ID numbers needed?). Finally, make a GET request to test your getAll function
 
 **BONUS TASKS**
