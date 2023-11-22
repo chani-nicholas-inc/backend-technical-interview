@@ -32,7 +32,7 @@ Your tasks will be to create a new model, add associations, perform migrations, 
 1. In our Express app, create a model called **sign** that has the attribute, `name`. (NOTE: Our naming convention consists of sigular table names)
 2. Create and run a migration for this new table. In a psql terminal, run a SQL statement to check that our previous steps were successful.
 
-**For the second half, you will pull down the code and drive while explaining your process to a “junior developer.”**
+**For the second half, the code will be pushed up to a branch called `interview/your-name` and you will be provided with database credentials to paste into a `.env` file. You will pull down the code and drive while explaining your process to a “junior developer.”**
 
 Our astrologers have just shared the following information with us! “*Each sign can have only one modality, element, and ruling planet. But each modality, element, and ruling planet can belong to multiple signs.*” 
 
