@@ -30,7 +30,7 @@ You will be mob programming with some of our developers to build out an existing
 
 Your tasks will include creating a new model, adding associations to models, performing migrations, creating database query functions, and demoing your work. To save time, a new PostgreSQL database has been generated for you (via Heroku). Environment variables will be provided to you during the interview.
 
-**REMEMBER:** Since we _are_ pair programming, you are encouraged to ask questions, include your "teammates" in your problem solving, as well as look things up. We are not so much interested in quizzing you on your ability memorize procedures related to the above tech stack or seeing how fast you can complete this challenge. We _are_ interested in your planning, problem solving, and communication skills.
+**REMEMBER:** Since we _are_ pair programming, you are encouraged to ask questions, include your "teammates" in your problem solving, as well as look things up. We are not so much interested in quizzing you on your ability to memorize procedures related to the above tech stack or seeing how fast you can complete this challenge. We know our time together is short, so there is absolutely no pressure to finish the challenge either. We are mainly interested in your planning, problem solving, and communication skills.
 
 ## Coding Challenge
 
