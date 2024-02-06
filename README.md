@@ -24,7 +24,7 @@
 - Coding tasks
 - Questions for interviewers (optional)
 
-## What to Expect
+## Overview
 
 You will be mob programming with some of our developers to build out an existing CRUD application using Node.js, Express, and Sequelize.
 
@@ -32,7 +32,7 @@ Your tasks will include creating a new model, adding associations to models, per
 
 **REMEMBER:** Since we _are_ pair programming, you are encouraged to ask questions, include your "teammates" in your problem solving, as well as look things up. We are not so much interested in quizzing you on your ability memorize procedures related to the above tech stack or seeing how fast you can complete this challenge. We _are_ interested in your planning, problem solving, and communication skills.
 
-### Coding Challenge
+## Coding Challenge
 
 **First, you will play the role of navigator as you guide a "junior developer" in driving while pair programming (they will be sharing screen as you direct them).**
 
