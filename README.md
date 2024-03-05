@@ -35,7 +35,7 @@ Your tasks will include creating a new model, adding associations to models, per
 **You will play the role of navigator as you guide a "junior developer" in driving while pair programming (they will be sharing screen as you direct them). The following tasks emulate requests made over time for an existing database. This is to assess your ability to solve existing problems, rather than your ability to create something perfect from scratch.**
 
 **TASK 1:** Create a new model called **sign**
-1. All current models and migrations were created using `sequelize-cli`. Follow this pattern to create a model called **sign** that has the attribute, `name`. (NOTE: Our naming convention consists of singular table names)
+1. All current models and migrations were created using `sequelize-cli`. Follow this pattern to create a model called **sign** that has the attribute, `name`. (NOTE: Our naming convention consists of singular _table_ names)
 2. Notice that a new migration was automatically generated for us to run. After running this migration, navigate to a psql terminal to check that our previous steps were successful.
 
 **TASK 2:** Our astrologers have just shared the following information with us! “*Each sign can have only one modality, element, and ruling planet. But each modality, element, and ruling planet can belong to multiple signs.*” 
