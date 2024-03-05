@@ -43,7 +43,7 @@ Your tasks will include creating a new model, adding associations to models, per
 1. Please update our associations and the attributes of the **sign** model (HINT: Look at the signs seeder file for attribute names). Update the corresponding table using a new migration.
 2. All of the seeder files we need have already been generated. Run the existing files.
 3. Fill in the `createOne` and `getAll` functions in the **signs** controller using Sequelize model queries.
-4. Run `npm start` and test endpoints in Postman to ensure they are working. Create the sign “Sagittarius". Sagittarius’ ruling **planet** is “Jupiter,” **element** is “fire,” and **modality** is “mutable.” (HINT: planets, elements, and modalities have been fully seeded. What SQL statements can you run in the terminal to get the ID numbers needed?). Finally, make a GET request to test your getAll function, demonstarting that your new sign has been added to the return.
+4. Run `npm start` and test endpoints in Postman to ensure they are working. Create the sign “Sagittarius". Sagittarius’ ruling **planet** is “Jupiter,” **element** is “fire,” and **modality** is “mutable.” (HINT: planets, elements, and modalities have been fully seeded. What SQL statements can you run in the terminal to get the ID numbers needed?). Finally, make a GET request to test your getAll function, demonstrating that your new sign has been added to the return.
 
 **BONUS TASKS**
 
